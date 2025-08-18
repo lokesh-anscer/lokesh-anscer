@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack DevOps & Networking </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=03F8FF&center=true&vCenter=true&width=435&lines=Full+Stack+DevOps+Networking;Cloud+Native+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=b60500&center=true&vCenter=true&width=435&lines=Full+Stack+DevOps+Networking;Cloud+Native+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
